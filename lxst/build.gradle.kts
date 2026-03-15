@@ -1,6 +1,6 @@
 plugins {
     id("com.android.library")
-    kotlin("android")
+    // kotlin("android")
 }
 
 group = "tech.torlando"
