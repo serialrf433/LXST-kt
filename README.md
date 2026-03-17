@@ -1,4 +1,4 @@
-# LXST-kt
+# LXST-kt - experimental repo
 
 Kotlin audio telephony library for [LXST](https://github.com/markqvist/LXST) voice calls over [Reticulum](https://reticulum.network). Extracted from [Columba](https://github.com/torlando-tech/columba).
 
